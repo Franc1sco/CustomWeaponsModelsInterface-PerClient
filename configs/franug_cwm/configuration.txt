@@ -1,0 +1,14 @@
+"CustomModels"
+{
+	"weapon_knife"
+	{
+		"Bowie"
+		{
+			"model" "models/weapons/lpz/bowie_tzd/v_knife_t.mdl"
+		}
+		"Butterfly"
+		{
+			"model" "models/weapons/lpz/butterfly_tzd/v_knife_t.mdl"
+		}
+	}
+}
